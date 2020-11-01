@@ -19,6 +19,7 @@ public class Input{
 			size = in.nextInt();
 		}
 
+		
 		array = new int[size];// array
 		System.out.println("Enter number's in array ");
 		array[0]=in.nextInt();
