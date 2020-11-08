@@ -1,6 +1,7 @@
 package com.project.mavenjse;
 
 import java.util.Scanner;
+import ru.neoflex.Search;
 
 public class Input{
 	
